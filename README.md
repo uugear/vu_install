@@ -9,3 +9,5 @@ Run this command to install Spotify app into your Vivid Unit:
 or use this shorter version:
 
 `curl -sL https://bit.ly/888AA | bash`
+
+![Spotify](pictures/Spotify.jpg?raw=true "Run Spotify on Vivid Unit")
