@@ -2,7 +2,7 @@
 #
 # File: gqrx.sh
 #
-# This script installs Gqrx SDR into Vivid Unit.
+# This script installs Gqrx SDR (and GNU Radio Companion) into Vivid Unit.
 # It runs volk_profile during the installation, which takes a few minutes.
 # The first time to run Gqrx would take rather long to initiate everything.
 #
