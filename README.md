@@ -6,7 +6,7 @@ These scripts can help you to install things that require more than just "sudo a
 ---
 
 ### Spotify (digital music streaming):
-Run this command to install Spotify app into your Vivid Unit:
+Run this command to install [Spotify](https://open.spotify.com/) app into your Vivid Unit:
 
 `$ curl -sL https://github.com/uugear/vu_install/raw/main/spotify.sh | bash`
 
@@ -19,7 +19,7 @@ or use this shorter version:
 ---
 
 ### Gqrx (software defined radio receiver = SDR)
-Run this command to install Gqrx into your Vivid Unit:
+Run this command to install [Gqrx](https://www.gqrx.dk/) into your Vivid Unit:
 
 `$ curl -sL https://github.com/uugear/vu_install/raw/main/gqrx.sh | bash`
 
