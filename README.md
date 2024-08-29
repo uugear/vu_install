@@ -5,6 +5,19 @@ These scripts can help you to install things that require more than just "sudo a
 
 ---
 
+### Enable GPU (Mali T860):
+Run this command to fully unlock the GPU acceleration on your Vivid Unit:
+
+`$ curl -sL https://github.com/uugear/vu_install/raw/main/enable_gpu.sh | bash`
+
+or use this shorter version:
+
+`curl -sL https://bit.ly/ENGPU | bash`
+
+![Enable GPU](pictures/ENGPU-glmark2-es2.jpg?raw=true "Fully Unlock GPU on Vivid Unit")
+
+---
+
 ### Spotify (digital music streaming):
 Run this command to install [Spotify](https://open.spotify.com/) app into your Vivid Unit:
 
