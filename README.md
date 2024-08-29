@@ -16,6 +16,9 @@ or use this shorter version:
 
 ![Enable GPU](pictures/ENGPU-glmark2-es2.jpg?raw=true "Fully Unlock GPU on Vivid Unit")
 
+After this upgrade, your Vivid Unit's glmark2-es2 score will be about 300 (was about 55 before this upgrade).
+The score can go even higher (about 500) if you test it with external display that has higher refresh rate.
+
 ---
 
 ### Spotify (digital music streaming):
