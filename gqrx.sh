@@ -34,7 +34,7 @@ git clone https://github.com/rtlsdrblog/rtl-sdr-blog
 
 cd rtl-sdr-blog
 
-sudo dpkg-buildpackage -b --no-sign
+sudo dpkg-buildpackage -b --no-sign -d
 
 cd ..
 
